@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GradeBook.Tests",
+    "\\GradeBook.Tests\\bin",
+    "\\GradeBook.Tests\\bin\\Debug",
+    "\\GradeBook.Tests\\bin\\Release",
+    "\\GradeBook.Tests\\bin\\Release\\net7.0",
+    "\\GradeBook.Tests\\obj",
+    "\\GradeBook.Tests\\obj\\Release"
+  ],
+  "SelectedNode": "\\GradeBook.Tests\\BookTests.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,16 @@
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.exe
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.deps.json
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.json
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.runtimeconfig.dev.json
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.dll
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\bin\Debug\net5.0\GradeBook.pdb
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.AssemblyReference.cache
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfoInputs.cache
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.AssemblyInfo.cs
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.csproj.CoreCompileInputs.cache
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.dll
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\ref\GradeBook.dll
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.pdb
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\GradeBook.genruntimeconfig.cache
+S:\Courses\C# Track\Pluralsight\C# Fundmentals\gradebook\src\GradeBook\obj\Debug\net5.0\refint\GradeBook.dll

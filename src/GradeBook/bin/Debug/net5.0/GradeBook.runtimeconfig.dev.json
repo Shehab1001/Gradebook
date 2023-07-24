@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Resala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Resala\\.nuget\\packages"
+    ]
+  }
+}
